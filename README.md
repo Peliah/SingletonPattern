@@ -1,4 +1,4 @@
-# Singleton Design Pattern in Java - README
+# Singleton Design Pattern in Java
 
 🚀 This repository contains an example implementation of the Singleton design pattern in Java. The Singleton pattern ensures that only one instance of a class is created and provides a global point of access to it.
 
