@@ -15,7 +15,7 @@ The code consists of the following files:
 
 ✨ To use the `Logger` class, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/peliah/singleton-java.git`
+1. Clone the repository: `git clone https://github.com/Peliah/SingletonPattern.git`
 2. Open the project in your Java IDE.
 3. Run the `Main.java` file to see the example usage of the `Logger` class.
 4. Customize the logging messages or add additional functionality as needed.
